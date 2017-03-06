@@ -8,3 +8,5 @@ rotulador - http://dle.rae.es/?id=WkSjNwu
 estuche - http://dle.rae.es/?id=H1a2W0o
 móvil - http://dle.rae.es/?id=PxcFux4
 gafas - http://dle.rae.es/?id=Ih6NRQV
+teclado - http://dle.rae.es/?id=ZIOsimV
+ratón - http://dle.rae.es/?id=VEOs7fW
